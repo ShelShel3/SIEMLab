@@ -16,11 +16,11 @@ For this project, I set up a basic home SOC in Azure from scratch. Using a free 
 
 <p align="center">
 Create Free Azure Subscription: <br/>
-<img src="https://]https://imgur.com/a/bq9xWPM" height="80%" width="80%" alt="Subscription"/>
+<img src="https://https://imgur.com/a/bq9xWPM" height="80%" width="80%" alt="Subscription"/>
 <br />
 <br />
 Viewing Raw Logs on the Virtual Machine:  <br/>
-<img src="[https://i.imgur.com/tcTyMUE.png](https://imgur.com/a/v8ouJHs)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[https://i.imgur.com/tcTyMUE.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />Creating Log Repository - Log Analytics Workspace: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
