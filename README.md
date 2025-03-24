@@ -12,7 +12,7 @@ For this project, I set up a basic home SOC in Azure from scratch. Using a free 
 - <b>Windows 11</b> 
 - <b>Microsoft Azure</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
