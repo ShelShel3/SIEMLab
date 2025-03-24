@@ -15,32 +15,37 @@ For this project, I set up a basic home SOC in Azure from scratch. Using a free 
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create Free Azure Subscription: <br/>
+<img src="https://]https://imgur.com/a/bq9xWPM" height="80%" width="80%" alt="Subscription"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Viewing Raw Logs on the Virtual Machine:  <br/>
+<img src="[https://i.imgur.com/tcTyMUE.png](https://imgur.com/a/v8ouJHs)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-Enter the number of passes: <br/>
+<br />Creating Log Repository - Log Analytics Workspace: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+Connecting our VM to Log Analytics Workspace:  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Querying Our Log Repository with KQL:  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+Uploading our Geolocation Data to the SIEM  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+Inspecting our Enriched Logs - We can see where the attackers are:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Creating our Attack Map:  <br/>
+ <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 </p>
 
 <!--
