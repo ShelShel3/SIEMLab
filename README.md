@@ -1,6 +1,5 @@
 <h1>Home SIEM Lab</h1>
 
-![image alt](https://github.com/ShelShel3/SIEMLab/blob/227061c9ff00794799d30c55d55caf620a5e613f/Screenshot%202025-03-23%20194222.jpg)
 
 <h2>Description</h2>
 For this project, I set up a basic home SOC in Azure from scratch. Using a free Azure subscription, I created a virtual machine (VM), opened it to the internet as a honeypot, and forwarded logs to a central repository. I then integrated Microsoft Sentinel to analyze real-world attack data.
@@ -16,7 +15,7 @@ For this project, I set up a basic home SOC in Azure from scratch. Using a free 
 
 <p align="center">
 Create Free Azure Subscription: <br/>
-![Image Alt](https://github.com/ShelShel3/SIEMLab/blob/227061c9ff00794799d30c55d55caf620a5e613f/Screenshot%202025-03-23%20194222.jpg)
+![image_alt](https://github.com/ShelShel3/SIEMLab/blob/227061c9ff00794799d30c55d55caf620a5e613f/Screenshot%202025-03-23%20194222.jpg)
 <br />
 <br />
 Viewing Raw Logs on the Virtual Machine:  <br/>
