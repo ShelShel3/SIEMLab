@@ -16,34 +16,33 @@ For this project, I set up a basic home SOC in Azure from scratch. Using a free 
 
 <p align="center">
 Create Free Azure Subscription: <br/>
-<img src="https://https://imgur.com/a/bq9xWPM" height="80%" width="80%" alt="Subscription"/>
+ ![Image Alt](image_url)
 <br />
 <br />
 Viewing Raw Logs on the Virtual Machine:  <br/>
-<img src="[https://i.imgur.com/tcTyMUE.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ ![Image Alt](image_url)
 <br />
 <br />Creating Log Repository - Log Analytics Workspace: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ ![Image Alt](image_url)
 <br />
 <br />
 Connecting our VM to Log Analytics Workspace:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+ ![Image Alt](image_url)
 <br />
 Querying Our Log Repository with KQL:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ ![Image Alt](image_url)
 <br />
 <br />
 Uploading our Geolocation Data to the SIEM  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ ![Image Alt](image_url)
 <br />
 <br />
 Inspecting our Enriched Logs - We can see where the attackers are:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ ![Image Alt](image_url)
 <br />
 <br />
 Creating our Attack Map:  <br/>
- <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  ![Image Alt](image_url)
 <br />
 <br />
 </p>
