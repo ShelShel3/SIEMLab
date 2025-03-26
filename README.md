@@ -15,7 +15,9 @@ For this project, I set up a basic home SOC in Azure from scratch. Using a free 
 
 <p align="center">
 Create Free Azure Subscription: <br/>
+
 ![image_alt](https://github.com/ShelShel3/SIEMLab/blob/227061c9ff00794799d30c55d55caf620a5e613f/Screenshot%202025-03-23%20194222.jpg)
+
 <br />
 <br />
 Viewing Raw Logs on the Virtual Machine:  <br/>
