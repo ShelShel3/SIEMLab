@@ -23,32 +23,52 @@ Create Free Azure Subscription: <br/>
 <p align="center">
 Create Virtual Machine:  <br/>
 
+ ![Image Alt](https://github.com/ShelShel3/SIEMLab/blob/5f2c69ec4b5d4c38155bbf8f563ee58fe84e44c6/Screenshot%202025-03-23%20194524.jpg)
+
+<br />
+<br />
+<p align="center">
+Creating Log Repository - Log Analytics Workspace: <br/>
+
  ![Image Alt](image_url)
 
 <br />
-<br />Creating Log Repository - Log Analytics Workspace: <br/>
- ![Image Alt](image_url)
 <br />
-<br />
+<p align="center">
 Connecting our VM to Log Analytics Workspace:  <br/>
- ![Image Alt](image_url)
-<br />
-Querying Our Log Repository with KQL:  <br/>
- ![Image Alt](image_url)
-<br />
-<br />
-Uploading our Geolocation Data to the SIEM  <br/>
+
  ![Image Alt](image_url)
 <br />
 <br />
-Inspecting our Enriched Logs - We can see where the attackers are:  <br/>
+<p align="center">
+ Querying Our Log Repository with KQL:  <br/>
+
  ![Image Alt](image_url)
+
 <br />
 <br />
+<p align="center">
+ Uploading our Geolocation Data to the SIEM  <br/>
+
+ ![Image Alt](image_url)
+
+<br />
+<br />
+<p align="center">
+ Inspecting our Enriched Logs - We can see where the attackers are:  <br/>
+
+ ![Image Alt](image_url)
+
+<br />
+<br />
+<p align="center">
 Creating our Attack Map:  <br/>
+ 
   ![Image Alt](image_url)
+
 <br />
 <br />
+<p align="center">
 </p>
 
 <!--
