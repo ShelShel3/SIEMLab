@@ -20,8 +20,11 @@ Create Free Azure Subscription: <br/>
 
 <br />
 <br />
-Viewing Raw Logs on the Virtual Machine:  <br/>
+<p align="center">
+Create Virtual Machine:  <br/>
+
  ![Image Alt](image_url)
+
 <br />
 <br />Creating Log Repository - Log Analytics Workspace: <br/>
  ![Image Alt](image_url)
