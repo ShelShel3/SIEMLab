@@ -37,7 +37,7 @@ Creating Log Repository - Log Analytics Workspace: <br/>
 <p align="center">
 Connecting our VM to Log Analytics Workspace:  <br/>
 
- ![Image Alt](image_url)
+ ![Image Alt](https://github.com/ShelShel3/SIEMLab/blob/7d74c040e88ea9820934923bb2c801865e8c725d/Screenshot%202025-03-24%20172629.jpg)
 <br />
 <br />
 <p align="center">
