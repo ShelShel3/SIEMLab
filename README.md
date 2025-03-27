@@ -50,7 +50,7 @@ Connecting our VM to Log Analytics Workspace:  <br/>
 <p align="center">
  Uploading our Geolocation Data to the SIEM  <br/>
 
- ![Image Alt](image_url)
+ ![Image Alt](https://github.com/ShelShel3/SIEMLab/blob/a054e7969f695f25c247e76e2616fdc7e1e0c5d4/Screenshot%202025-03-24%20172855.jpg)
 
 <br />
 <br />
