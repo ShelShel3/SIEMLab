@@ -30,7 +30,7 @@ Create Virtual Machine:  <br/>
 <p align="center">
 Creating Log Repository - Log Analytics Workspace: <br/>
 
- ![Image Alt](image_url)
+ ![Image Alt](https://github.com/ShelShel3/SIEMLab/blob/28ee79b338ed4e2d8785163314f665c3676283bc/Screenshot%202025-03-23%20194548.jpg)
 
 <br />
 <br />
